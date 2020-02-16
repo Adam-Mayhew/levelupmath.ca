@@ -234,7 +234,8 @@ hr {
   position: relative;
   left: 50%;
   background: rgba(0, 0, 0, 0.7); }
-
+.adam-test {
+  background: rgba(0, 0, 0, 0.7);}
 .whole {
   width: 100%;
   padding: 60px;

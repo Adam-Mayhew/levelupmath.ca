@@ -6,7 +6,7 @@
   path: /blog/
   section_id: blog
 
-- name: Reviews
+- name: Read reviews
   path: "#reviews"
   section_id: reviews
 
@@ -17,3 +17,7 @@
 - name: Contact
   path: "#contact"
   section_id: contact
+
+- name: Leave a review
+  path: "#Leave-a-review"
+  section_id: Leave-a-review
