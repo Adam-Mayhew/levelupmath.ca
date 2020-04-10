@@ -19,5 +19,5 @@
   section_id: contact
 
 - name: Leave a review
-  path: "#Leave-a-review"
-  section_id: Leave-a-review
+  path: "#leave-a-review"
+  section_id: leave-a-review
