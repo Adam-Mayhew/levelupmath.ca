@@ -276,6 +276,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  github-pages
   jekyll (= 3.10.0)
   jekyll-feed
   jekyll-paginate
